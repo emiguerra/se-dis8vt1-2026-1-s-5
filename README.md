@@ -1,97 +1,27 @@
+# Apuntes de Seminario-2026
 
-# Sesión 02 — Seminario
+Repositorio de apuntes organizado por sesiones.
 
-- Artes mediales y la datificación de la experiencia
-- La base de todo debe tener un marco teórico
+## Índice de Sesiones
+Aquí puedes acceder rápidamente a cada unidad:
 
+| Sesión | Contenido | Enlace Directo |
+| :--- | :--- | :--- |
+| **01** | Introducción | [Ver Sesión 01](./apuntes/sesion-01/) |
+| **02** | Conceptos Base | [Ver Sesión 02](./apuntes/sesion-02/) |
+| **03** | Análisis | [Ver Sesión 03](./apuntes/sesion-03/) |
+| **04** | Desarrollo | [Ver Sesión 04](./apuntes/sesion-04/) |
+| **05** | Revisión | [Ver Sesión 05](./apuntes/sesion-05/) |
+| **06** | Sesión 06 | [Ver Sesión 06](./apuntes/sesion-06/) |
+| **07** | Sesión 07 | [Ver Sesión 07](./apuntes/sesion-07/) |
+| **08** | Sesión 08 | [Ver Sesión 08](./apuntes/sesion-08/) |
+| **09** | Sesión 09 | [Ver Sesión 09](./apuntes/sesion-09/) |
+| **10** | Sesión 10 | [Ver Sesión 10](./apuntes/sesion-10/) |
+| **11** | Sesión 11 | [Ver Sesión 11](./apuntes/sesion-11/) |
+| **12** | Sesión 12 | [Ver Sesión 12](./apuntes/sesion-12/) |
+| **13** | Sesión 13 | [Ver Sesión 13](./apuntes/sesion-13/) |
+| **14** | Sesión 14 | [Ver Sesión 14](./apuntes/sesion-14/) |
+| **15** | Sesión 15 | [Ver Sesión 15](./apuntes/sesion-15/) |
 
-## ¿Qué es un marco teórico?
-
-Definición: Descripción detallada de cada uno de los elementos de la teoría que serán directamente utilizados en el desarrollo de la investigación.
-
-## Qué evitar
-
-- "Yo creo que"
-- "Me parece que"
-- No replicar solución a un problema
-- Soluciones diseñadas para un problema más simple
-
-## Corrección presentación — sesión 18/03
-
-- Abrirán las discusiones pero no analizar como mérito de solución.
-- Se puede abordar desde la datificación.
-- Patrones oscuros (dark patterns): entender dónde están e identificarlos.
-- Eurísticas de Nielsen (padre de la usabilidad).
-- Buscar evidencia sobre lo que interesa dentro de la datificación.
-- Federico Zannier: "Si el producto es gratuito, es porque yo soy el producto." Obtuvo datos que las empresas usaban para vender y se datificó.
-- Alex Osterwalder: 9 dimensiones.
-
-## Referentes estéticos
-- https://www.shinkogeisha.com/projects-1/me%3Amo
-
-## Lecturas y referencias
-
-- Made to Stick — Chip Heath y Dan Heath
-- Nudge — Richard H. Thaler y Cass R. Sunstein
-- Hard Choices / Easy Choices (notas de lectura)
-- The Shape of Design
-
-## Resumen
-
-- Artes mediales y la datificación de la experiencia.
-- La base de todo debe tener un marco teórico.
-
-## ¿Qué es un marco teórico?
-
-Definición: descripción detallada de cada uno de los elementos de la teoría que serán directamente utilizados en el desarrollo de la investigación.
-
-## Qué evitar
-
-- "Yo creo que"
-- "Me parece que"
-- Replicar solución a un problema sin análisis
-- Soluciones diseñadas para un problema más simple
-
-## Corrección presentación — sesión 18/03
-
-- Abrirán las discusiones, pero no analizarlas como mérito de solución.
-- Se puede abordar desde la datificación.
-- Patrones oscuros (dark patterns): identificar dónde están y cómo funcionan.
-- Eurísticas de Nielsen (principios de usabilidad).
-- Buscar evidencia en la datificación sobre los temas de interés.
-- Federico Zannier: "Si el producto es gratuito, es porque yo soy el producto." (sobre uso de datos y datificación).
-- Alex Osterwalder: 9 dimensiones.
-
-## Referentes estéticos
-
-- Me:mo — https://www.shinkogeisha.com/projects-1/me%3Amo
-
-## Lecturas y referencias
-
-- Made to Stick — Chip Heath y Dan Heath
-- Nudge — Richard H. Thaler y Cass R. Sunstein
-- Hard Choices / Easy Choices (notas de lectura)
-- The Shape of Design
-- Markdown Cheatsheet — Markdown Here: https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
-
-## Fechas específicas
-
-- PASE Sem 14, junio — Memoria + borrador completo
-- H5 Cierre: semana 15–18 junio — Sumativa
-- H6 Examen: semana 19–20 julio — Examen ante comisión calificada
-
-## Búsqueda
-
-- Revisión de memorias pasadas; evitar repetir investigaciones previas.
-- Revisar estructuras de investigación para el marco teórico.
-- Cómo formulan las hipótesis (objetivos generales y específicos).
-- Taxonomía de Bloom.
-- Revisar y ajustar la lógica de trabajo.
-
-## Tareas específicas
-
-- Acercamiento a expertos.
-- Análisis de referentes.
-- Benchmark.
-- Reflexión sobre actividades phygital.
-- Definir criterios de selección de referentes.
+---
+*Organizado por Emilia Guerra*
